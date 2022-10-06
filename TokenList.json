@@ -3,6 +3,7 @@
         "idToken": 1,
         "addressToken": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
         "access": 1,
+        "listing": 1,
         "name": "Bitcoin",
         "symbolToken": "BTC"
     },
@@ -10,6 +11,7 @@
         "idToken": 2,
         "addressToken": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
         "access": 1,
+        "listing": 1,
         "name": "Ethereum",
         "symbolToken": "ETH"
     },
@@ -17,6 +19,7 @@
         "idToken": 3,
         "addressToken": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
         "access": 1,
+        "listing": 1,
         "name": "Tehter",
         "symbolToken": "USDT"
     },
@@ -24,6 +27,7 @@
         "idToken": 4,
         "addressToken": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
         "access": 1,
+        "listing": 1,
         "name": "Dai Stablecoin",
         "symbolToken": "DAI"
     },
@@ -31,6 +35,7 @@
         "idToken": 5,
         "addressToken": "0:a15e6a7a91c331ddcd85675ca64d5a7db8c7e94b35806b2e05bf4bce29d21023",
         "access": 0,
+        "listing": 1,
         "name": "SOON Token",
         "symbolToken": "SOON"
     },
@@ -38,6 +43,7 @@
         "idToken": 6,
         "addressToken": "0",
         "access": 1,
+        "listing": 1,
         "name": "Everscale",
         "symbolToken": "EVER"
     },
@@ -45,6 +51,7 @@
         "idToken": 7,
         "addressToken": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
         "access": 0,
+        "listing": 1,
         "name": "Qube",
         "symbolToken": "QUBE"
     },
@@ -52,6 +59,7 @@
         "idToken": 8,
         "addressToken": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
         "access": 0,
+        "listing": 1,
         "name": "Bridge",
         "symbolToken": "BRIDGE"
     },
@@ -59,6 +67,7 @@
         "idToken": 9,
         "addressToken": "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4",
         "access": 0,
+        "listing": 0,
         "name": "EVA",
         "symbolToken": "EVA"
     },
@@ -73,6 +82,7 @@
         "idToken": 11,
         "addressToken": "0:fde4c629d6447fecd86d2cffe363d5f334030351022bad019e0f472212e9dc99",
         "access": 0,
+        "listing": 1,
         "name": "Grechcoin",
         "symbolToken": "GRE"
     },
@@ -80,6 +90,7 @@
         "idToken": 12,
         "addressToken": "0:f787089d81b4d4506f783c611272fedfe5164f784991436491eb619fae13d171",
         "access": 1,
+        "listing": 1,
         "name": "Solana",
         "symbolToken": "SOL"
     },
@@ -87,7 +98,16 @@
         "idToken": 13,
         "addressToken": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
         "access": 1,
+        "listing": 1,
         "name": "USD Coin",
         "symbolToken": "USDC"
+    },
+        "14": {
+        "idToken": 14,
+        "addressToken": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
+        "access": 0,
+        "listing": 0,
+        "name": "Staked Ever",
+        "symbolToken": "stEVER"
     }
 }
